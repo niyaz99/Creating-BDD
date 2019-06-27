@@ -1,0 +1,5 @@
+﻿enum TokenType
+{
+    Variable,
+    Operation
+}

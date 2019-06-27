@@ -1,0 +1,163 @@
+c:\users\hasan\source\repos\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+c:\users\hasan\source\repos\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+c:\users\hasan\source\repos\WindowsFormsApp17\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+c:\users\hasan\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojResolveAssemblyReference.cache
+c:\users\hasan\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+c:\users\hasan\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+c:\users\hasan\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+c:\users\hasan\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+c:\users\hasan\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+c:\users\hasan\source\repos\WindowsFormsApp17\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+C:\Users\hasan\Desktop\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\hasan\Desktop\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\hasan\Desktop\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\hasan\Desktop\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\hasan\Desktop\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\hasan\Desktop\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+C:\Users\hasan\Desktop\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\hasan\Desktop\лог формкла v2\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\hasan\Desktop\лог формкла v2\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\лог формкла v2\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\hasan\Desktop\лог формкла v2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\hasan\Desktop\лог формкла v2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\hasan\Desktop\лог формкла v2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\hasan\Desktop\лог формкла v2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\hasan\Desktop\лог формкла v2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\лог формкла v2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\лог формкла v2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+C:\Users\hasan\Desktop\лог формкла v2\лог формула\WindowsFormsApp17\bin\Debug\UCLouvain.BDDSharp.dll
+C:\Users\hasan\Desktop\лог формкла v2\лог формула\WindowsFormsApp17\bin\Debug\UCLouvain.BDDSharp.pdb
+C:\Users\hasan\Desktop\лог формкла v2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CopyComplete
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\UCLouvain.BDDSharp.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\UCLouvain.BDDSharp.pdb
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CopyComplete
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\cdt.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\cgraph.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\freetype6.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\gvc.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\gvplugin_core.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\gvplugin_dot_layout.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\gvplugin_gd.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\gvplugin_gdiplus.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\iconv.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\intl.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\jpeg62.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\libcairo-2.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\libexpat-1.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\libexpat.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\libfontconfig-1.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\libfreetype-6.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\libglib-2.0-0.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\libgmodule-2.0-0.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\libgobject-2.0-0.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\libgthread-2.0-0.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\libpng12.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\libpng14-14.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\libxml2.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\ltdl.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\Pathplan.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\zlib1.dll
+C:\Users\hasan\Desktop\Build Bdd v1.1\лог формула\WindowsFormsApp17\bin\Debug\external\config6
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\BDDManager.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\BDDNode.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\Table\BDDNodeBucket.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\Table\BDDNodeBucketException.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\Table\UniqueTable.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\cdt.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\cgraph.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\freetype6.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\gvc.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\gvplugin_core.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\gvplugin_dot_layout.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\gvplugin_gd.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\gvplugin_gdiplus.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\iconv.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\intl.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\jpeg62.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libcairo-2.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libexpat-1.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libexpat.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libfontconfig-1.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libfreetype-6.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libglib-2.0-0.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libgmodule-2.0-0.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libgobject-2.0-0.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libgthread-2.0-0.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libpng12.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libpng14-14.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libxml2.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\ltdl.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\Pathplan.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\zlib1.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\config6
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\UCLouvain.BDDSharp.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\UCLouvain.BDDSharp.pdb
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CopyComplete
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\BDDManager.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\BDDNode.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\Table\BDDNodeBucket.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\Table\BDDNodeBucketException.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\Table\UniqueTable.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\cdt.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\cgraph.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\freetype6.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\gvc.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\gvplugin_core.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\gvplugin_dot_layout.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\gvplugin_gd.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\gvplugin_gdiplus.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\iconv.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\intl.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\jpeg62.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libcairo-2.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libexpat-1.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libexpat.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libfontconfig-1.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libfreetype-6.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libglib-2.0-0.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libgmodule-2.0-0.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libgobject-2.0-0.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libgthread-2.0-0.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libpng12.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libpng14-14.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\libxml2.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\ltdl.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\Pathplan.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\zlib1.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\external\config6
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe.config
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\WindowsFormsApp17.pdb
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\UCLouvain.BDDSharp.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Debug\UCLouvain.BDDSharp.pdb
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Form1.resources
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.csproj.CopyComplete
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Debug\WindowsFormsApp17.pdb

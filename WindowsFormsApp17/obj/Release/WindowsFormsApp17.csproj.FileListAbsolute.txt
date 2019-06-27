@@ -1,0 +1,90 @@
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\BDDManager.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\BDDNode.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\Table\BDDNodeBucket.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\Table\BDDNodeBucketException.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\Table\UniqueTable.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\cdt.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\cgraph.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\freetype6.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\gvc.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\gvplugin_core.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\gvplugin_dot_layout.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\gvplugin_gd.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\gvplugin_gdiplus.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\iconv.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\intl.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\jpeg62.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libcairo-2.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libexpat-1.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libexpat.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libfontconfig-1.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libfreetype-6.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libglib-2.0-0.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libgmodule-2.0-0.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libgobject-2.0-0.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libgthread-2.0-0.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libpng12.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libpng14-14.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libxml2.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\ltdl.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\Pathplan.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\zlib1.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\config6
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\WindowsFormsApp17.exe.config
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\WindowsFormsApp17.pdb
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\UCLouvain.BDDSharp.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\UCLouvain.BDDSharp.pdb
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.Form1.resources
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.csproj.CopyComplete
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.pdb
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\BDDManager.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\BDDNode.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\Table\BDDNodeBucket.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\Table\BDDNodeBucketException.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\Table\UniqueTable.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\cdt.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\cgraph.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\freetype6.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\gvc.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\gvplugin_core.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\gvplugin_dot_layout.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\gvplugin_gd.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\gvplugin_gdiplus.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\iconv.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\intl.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\jpeg62.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libcairo-2.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libexpat-1.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libexpat.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libfontconfig-1.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libfreetype-6.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libglib-2.0-0.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libgmodule-2.0-0.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libgobject-2.0-0.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libgthread-2.0-0.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libpng12.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libpng14-14.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\libxml2.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\ltdl.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\Pathplan.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\zlib1.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\external\config6
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\WindowsFormsApp17.exe.config
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\WindowsFormsApp17.pdb
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\UCLouvain.BDDSharp.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\bin\Release\UCLouvain.BDDSharp.pdb
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.csprojAssemblyReference.cache
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.Form1.resources
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.Properties.Resources.resources
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.csproj.GenerateResource.cache
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.csproj.CopyComplete
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.exe
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\WindowsFormsApp17\obj\Release\WindowsFormsApp17.pdb

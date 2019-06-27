@@ -1,0 +1,32 @@
+C:\Users\hasan\Desktop\BDDSharp-master\bin\Debug\UCLouvain.BDDSharp.dll
+C:\Users\hasan\Desktop\BDDSharp-master\bin\Debug\UCLouvain.BDDSharp.pdb
+C:\Users\hasan\Desktop\BDDSharp-master\BDDSharp\obj\Debug\UCLouvain.BDDSharp.csprojAssemblyReference.cache
+C:\Users\hasan\Desktop\BDDSharp-master\BDDSharp\obj\Debug\UCLouvain.BDDSharp.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\BDDSharp-master\BDDSharp\obj\Debug\UCLouvain.BDDSharp.dll
+C:\Users\hasan\Desktop\BDDSharp-master\BDDSharp\obj\Debug\UCLouvain.BDDSharp.pdb
+C:\Users\hasan\Desktop\BDDSharp-master\bin\Debug\BDDManager.cs
+C:\Users\hasan\Desktop\BDDSharp-master\bin\Debug\BDDNode.cs
+C:\Users\hasan\Desktop\BDDSharp-master\bin\Debug\Table\BDDNodeBucket.cs
+C:\Users\hasan\Desktop\BDDSharp-master\bin\Debug\Table\BDDNodeBucketException.cs
+C:\Users\hasan\Desktop\BDDSharp-master\bin\Debug\Table\UniqueTable.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\bin\Debug\BDDManager.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\bin\Debug\BDDNode.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\bin\Debug\Table\BDDNodeBucket.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\bin\Debug\Table\BDDNodeBucketException.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\bin\Debug\Table\UniqueTable.cs
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\bin\Debug\UCLouvain.BDDSharp.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\bin\Debug\UCLouvain.BDDSharp.pdb
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\BDDSharp\obj\Debug\UCLouvain.BDDSharp.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\BDDSharp\obj\Debug\UCLouvain.BDDSharp.dll
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\BDDSharp\obj\Debug\UCLouvain.BDDSharp.pdb
+C:\Users\hasan\Desktop\Build Bdd v1.2\лог формула\BDDSharp\obj\Debug\UCLouvain.BDDSharp.csprojAssemblyReference.cache
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\bin\Debug\BDDManager.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\bin\Debug\BDDNode.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\bin\Debug\Table\BDDNodeBucket.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\bin\Debug\Table\BDDNodeBucketException.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\bin\Debug\Table\UniqueTable.cs
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\bin\Debug\UCLouvain.BDDSharp.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\bin\Debug\UCLouvain.BDDSharp.pdb
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\BDDSharp\obj\Debug\UCLouvain.BDDSharp.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\BDDSharp\obj\Debug\UCLouvain.BDDSharp.dll
+C:\Users\hasan\Desktop\ВМК\2 курс\Мат логика 3 сем\Курсовая по Мат логу\Решения БДД\Build Bdd v1.2\лог формула\BDDSharp\obj\Debug\UCLouvain.BDDSharp.pdb
